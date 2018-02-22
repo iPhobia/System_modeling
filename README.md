@@ -1,2 +1,2 @@
 # System_modeling
-Core materials for the System modeling subject.
+Core materials for the training course "System Modeling".
